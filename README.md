@@ -277,12 +277,6 @@ If you want, I can harden this project by adding password hashing (bcrypt), envi
 
 ---
 
-## License
-
-No license file is included yet. Add a `LICENSE` file if you plan to publish this publicly.
-
----
-
 ## Author
 
 - Name: [Vivek Raj](https://github.com/vivekraj3456/)
